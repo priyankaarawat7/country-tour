@@ -4,7 +4,7 @@ import axios from "axios";
 // Connect React frontend to Node.js backend
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "/api",
 });
 
 
