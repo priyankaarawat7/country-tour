@@ -1213,3 +1213,158 @@ nav ul li a:hover {
 .country-region {
   margin-top: 1.2rem !important;
 }
+
+/* =========================
+   Contact Responsive Design
+========================= */
+
+@media (max-width: 992px) {
+    .contact-wrapper {
+        padding: 0 5rem;
+    }
+
+    .contact-wrapper form {
+        width: 100%;
+    }
+
+    .form-control {
+        width: 100%;
+    }
+}
+
+
+/* =========================
+   Tablet
+========================= */
+
+@media (max-width: 768px) {
+    .contact-wrapper {
+        padding: 0 3rem;
+    }
+
+    .container-title {
+        font-size: 3rem;
+    }
+
+    .contact-wrapper form {
+        width: 100%;
+    }
+
+    .form-control {
+        width: 100%;
+        font-size: 1.5rem;
+        padding: 1.2rem;
+    }
+
+    .contact-wrapper textarea {
+        min-height: 18rem;
+    }
+
+    .contact-wrapper button {
+        width: 100%;
+        padding: 1.2rem;
+        font-size: 1.6rem;
+    }
+}
+
+
+/* =========================
+   Mobile
+========================= */
+
+@media (max-width: 480px) {
+    .contact-wrapper {
+        padding: 0 1.5rem;
+    }
+
+    .container-title {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    .form-control {
+        font-size: 1.4rem;
+        padding: 1.1rem;
+    }
+
+    .contact-wrapper textarea {
+        min-height: 15rem;
+    }
+
+    .contact-wrapper button {
+        width: 100%;
+        font-size: 1.5rem;
+        padding: 1.1rem;
+    }
+}
+
+@media (max-width: 768px) {
+    html,
+    body,
+    #root {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+}
+
+@media (max-width: 768px) {
+    .section-about {
+        padding: 3rem 2rem 4rem;
+    }
+
+    .section-about .container-title {
+        font-size: 2.5rem;
+        line-height: 1.3;
+        margin-bottom: 3rem;
+        text-align: center;
+    }
+
+    .gradient-cards {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .gradient-cards .container-card {
+        padding: 2rem;
+    }
+
+    .gradient-cards .card-title {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .card-detail,
+    .card-fact {
+        font-size: 1.4rem;
+        line-height: 1.6;
+    }
+
+    .about-basic-info {
+        gap: 0.8rem;
+        margin-bottom: 1.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .section-about {
+        padding: 2.5rem 1.5rem 3rem;
+    }
+
+    .section-about .container-title {
+        font-size: 2.2rem;
+    }
+
+    .gradient-cards .container-card {
+        padding: 1.8rem;
+    }
+
+    .gradient-cards .card-title {
+        font-size: 1.8rem;
+    }
+
+    .card-detail,
+    .card-fact {
+        font-size: 1.3rem;
+    }
+}
