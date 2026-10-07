@@ -104,9 +104,12 @@ app.get("/api/countries", async (req, res) => {
       "https://countries.dev/countries"
     );
 
-    const countries = response.data || [];
+    const countries = Array.isArray(response.data)
+      ? response.data
+      : [];
 
     res.json(countries.map(formatCountry));
+
   } catch (error) {
     console.error(
       "Backend API error:",
