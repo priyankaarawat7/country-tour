@@ -1,0 +1,102 @@
+
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1476625576,
+    "interestingFact":
+      "India is home to the Taj Mahal, one of the Seven Wonders of the World."
+  },
+  {
+    "id": 2,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1412914089,
+    "interestingFact":
+      "The Great Wall of China is one of the most famous man-made structures in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "US",
+    "capital": "Washington, D.C.",
+    "population": 349035494,
+    "interestingFact":
+      "The United States is home to Yellowstone, widely considered the world's first national park."
+  },
+  {
+    "id": 4,
+    "countryName": "Indonesia",
+    "capital": "Jakarta",
+    "population": 287886782,
+    "interestingFact":
+      "Indonesia is the world's largest archipelago, made up of thousands of islands."
+  },
+  {
+    "id": 5,
+    "countryName": "Pakistan",
+    "capital": "Islamabad",
+    "population": 259299791,
+    "interestingFact":
+      "Pakistan is home to K2, the second-highest mountain in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Nigeria",
+    "capital": "Abuja",
+    "population": 242431832,
+    "interestingFact":
+      "Nigeria is often called the Giant of Africa because of its large population and economy."
+  },
+  {
+    "id": 7,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 213562666,
+    "interestingFact":
+      "Brazil contains most of the Amazon rainforest, the largest tropical rainforest on Earth."
+  },
+  {
+    "id": 8,
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 177818044,
+    "interestingFact":
+      "Bangladesh is home to the Sundarbans, the world's largest mangrove forest."
+  },
+  {
+    "id": 9,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 143394458,
+    "interestingFact":
+      "Russia is the largest country in the world by land area."
+  },
+  {
+    "id": 10,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 122427731,
+    "interestingFact":
+      "Japan is known for its Shinkansen bullet trains and its rich technological innovation."
+  },
+   {
+    "id": 11,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83783942,
+    "interestingFact":
+      "Germany is known for its engineering excellence and its role in the European Union."
+  },
+   {
+    "id": 12,
+    "countryName": "Iran",
+    "capital": "Tehran",
+    "population": 85000000,
+    "interestingFact":
+      "Iran is home to the ancient city of Persepolis, a UNESCO World Heritage site."
+  }
+
+
+
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "icon": "MdPlace",
+        "title" : "Find us",
+        "details": "India, Delhi"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title" : "Call us",
+        "details": "8766339791"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title" : "Mail us",
+        "details": "priyankaarawat7.com"
+    }
+
+]
